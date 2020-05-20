@@ -1,0 +1,19 @@
+{
+  "name": "testinggit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gullitonecross/TestingGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gullitonecross/TestingGit/issues"
+  },
+  "homepage": "https://github.com/gullitonecross/TestingGit#readme"
+}
